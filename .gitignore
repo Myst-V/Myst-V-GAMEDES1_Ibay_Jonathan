@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+.godot/
+=======
+# Godot 4+ specific ignores
+.godot/
+/android/
+>>>>>>> 2b7e8b0 (Lab 1: project setup and scene tree)
